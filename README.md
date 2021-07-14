@@ -4,12 +4,12 @@
 
 ### Building the book
 
-If you'd like to develop on and build the Working with Single Access Collections book, you should:
+If you'd like to develop on and build the Single Access Collections book, you should:
 
 - Clone this repository and run
 - Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
 - (Recommended) Remove the existing `SingleAccess/_build/` directory
-- Run `jupyter-book build BigData/`
+- Run `jupyter-book build SingleAccess/`
 
 A fully-rendered HTML version of the book will be built in `SingleAccess/_build/html/`.
 
